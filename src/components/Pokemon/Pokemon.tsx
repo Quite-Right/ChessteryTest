@@ -41,7 +41,7 @@ export const Pokemon = () => {
   return (
     <>
       <PageHeader
-        onBack={() => history.push("/pokemons")}
+        onBack={() => history.push("/ChessteryTest/pokemons")}
         title="Pokemons"
         subTitle={id}
         extra={[

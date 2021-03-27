@@ -20,7 +20,7 @@ function App() {
     <Provider store={store}>
       <Router>
         <Switch>
-          <Route path="/404" exact>
+          <Route path="/ChessteryTest/404" exact>
             <Title>Page Not Found</Title>
           </Route>
           <Route>
@@ -32,17 +32,17 @@ function App() {
             <Row gutter={16} justify="center" className="main">
               <Col span={22}>
                 <Switch>
-                  <Route exact path="/">
-                    <Redirect to="/pokemons" />
+                  <Route exact path="/ChessteryTest/">
+                    <Redirect to="/ChessteryTest/pokemons" />
                   </Route>
-                  <Route path="/pokemons/:id">
+                  <Route path="/ChessteryTest/pokemons/:id">
                     <Pokemon />
                   </Route>
-                  <Route exact path="/pokemons">
+                  <Route exact path="/ChessteryTest/pokemons">
                     <Pokemons />
                   </Route>
                   <Route>
-                    <Redirect to="/404" />
+                    <Redirect to="/ChessteryTest/404" />
                   </Route>
                 </Switch>
               </Col>

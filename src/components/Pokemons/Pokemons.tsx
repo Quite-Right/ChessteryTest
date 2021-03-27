@@ -98,7 +98,7 @@ export const Pokemons = () => {
           onRow={({ id }: IPokemon) => {
             return {
               onClick: () => {
-                history.push(`/pokemons/${id}`);
+                history.push(`/ChessteryTest/pokemons/${id}`);
               },
             };
           }}
