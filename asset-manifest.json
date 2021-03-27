@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChessteryTest/static/css/main.a08add7e.chunk.css",
-    "main.js": "/ChessteryTest/static/js/main.351f5cd9.chunk.js",
-    "main.js.map": "/ChessteryTest/static/js/main.351f5cd9.chunk.js.map",
+    "main.js": "/ChessteryTest/static/js/main.800fb94f.chunk.js",
+    "main.js.map": "/ChessteryTest/static/js/main.800fb94f.chunk.js.map",
     "runtime-main.js": "/ChessteryTest/static/js/runtime-main.3ffdf8c0.js",
     "runtime-main.js.map": "/ChessteryTest/static/js/runtime-main.3ffdf8c0.js.map",
     "static/css/2.72423869.chunk.css": "/ChessteryTest/static/css/2.72423869.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.72423869.chunk.css",
     "static/js/2.7b95eca5.chunk.js",
     "static/css/main.a08add7e.chunk.css",
-    "static/js/main.351f5cd9.chunk.js"
+    "static/js/main.800fb94f.chunk.js"
   ]
 }
