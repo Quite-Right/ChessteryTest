@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ChessteryTest/static/css/main.a08add7e.chunk.css",
+    "main.js": "/ChessteryTest/static/js/main.351f5cd9.chunk.js",
+    "main.js.map": "/ChessteryTest/static/js/main.351f5cd9.chunk.js.map",
+    "runtime-main.js": "/ChessteryTest/static/js/runtime-main.3ffdf8c0.js",
+    "runtime-main.js.map": "/ChessteryTest/static/js/runtime-main.3ffdf8c0.js.map",
+    "static/css/2.72423869.chunk.css": "/ChessteryTest/static/css/2.72423869.chunk.css",
+    "static/js/2.7b95eca5.chunk.js": "/ChessteryTest/static/js/2.7b95eca5.chunk.js",
+    "static/js/2.7b95eca5.chunk.js.map": "/ChessteryTest/static/js/2.7b95eca5.chunk.js.map",
+    "static/js/3.756337c3.chunk.js": "/ChessteryTest/static/js/3.756337c3.chunk.js",
+    "static/js/3.756337c3.chunk.js.map": "/ChessteryTest/static/js/3.756337c3.chunk.js.map",
+    "index.html": "/ChessteryTest/index.html",
+    "static/css/2.72423869.chunk.css.map": "/ChessteryTest/static/css/2.72423869.chunk.css.map",
+    "static/css/main.a08add7e.chunk.css.map": "/ChessteryTest/static/css/main.a08add7e.chunk.css.map",
+    "static/js/2.7b95eca5.chunk.js.LICENSE.txt": "/ChessteryTest/static/js/2.7b95eca5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ffdf8c0.js",
+    "static/css/2.72423869.chunk.css",
+    "static/js/2.7b95eca5.chunk.js",
+    "static/css/main.a08add7e.chunk.css",
+    "static/js/main.351f5cd9.chunk.js"
+  ]
+}
